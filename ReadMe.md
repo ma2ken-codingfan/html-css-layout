@@ -1,6 +1,6 @@
 # html css テンプレート作成
 
-## cssバグ
+## css 不具合
 
 - ieのmainタグはインライン
 
