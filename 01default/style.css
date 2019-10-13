@@ -2,7 +2,7 @@
 
 *, *:before, *:after {
   -webkit-box-sizing: border-box;
-  box-sizing: border-box
+  box-sizing: border-box;
 }
 /* css main が　ieの場合inlineになるためdisplay block指定  */
 main {
