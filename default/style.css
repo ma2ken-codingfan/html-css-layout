@@ -1,7 +1,14 @@
-p {
-    font-size: 18px;
-}
+/* block内にborderとpaddingを含めてレスポンシブレイアウト対応にする */
 
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box
+}
+/* css main が　ieの場合inlineになるためdisplay block指定  */
 main {
     display: block;
+}
+
+p {
+    font-size: 18px;
 }
