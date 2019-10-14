@@ -52,7 +52,11 @@ html {
 
 body {
   margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
+
+ 
+
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and

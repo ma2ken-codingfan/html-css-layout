@@ -1,3 +1,7 @@
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
 /* block内にborderとpaddingを含めてレスポンシブレイアウト対応にする */
 
 *, *:before, *:after {
@@ -8,6 +12,7 @@
 main {
     display: block;
 }
+
 
 p {
     font-size: 18px;
